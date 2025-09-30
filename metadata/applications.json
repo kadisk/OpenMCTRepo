@@ -1,0 +1,8 @@
+[
+    {
+        "appType":"APP",
+        "executable":"example-open-mct",
+        "packageNamespace":"Main.Module/Applications.layer/example-open-mct.webgui",
+        "supervisorSocketFileName":"example-open-mct-gui.sock"
+    }
+]
