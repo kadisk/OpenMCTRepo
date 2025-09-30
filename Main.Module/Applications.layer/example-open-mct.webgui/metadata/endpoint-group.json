@@ -11,7 +11,7 @@
             "url": "/",
             "type": "web-graphic-user-interface",
             "params": {
-                "entrypoint": "index.tsx",
+                "entrypoint": "index.js",
                 "htmlTemplate": "index.html",
                 "serverEndpointStatus": "{{serverManagerUrl}}",
                 "serverName":"{{serverName}}",

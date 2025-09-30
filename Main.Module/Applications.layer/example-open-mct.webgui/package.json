@@ -4,6 +4,9 @@
   "author": "Kaio Cezar <kadisk.shark@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "openmct": "^4.1.0"
+    "openmct": "^4.1.0",
+    "style-loader": "^4.0.0",
+    "css-loader": "^7.1.2",
+    "source-map-loader": "^5.0.0"
   }
 }
